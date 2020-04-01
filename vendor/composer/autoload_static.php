@@ -11,6 +11,10 @@ class ComposerStaticInita337465ec0a0cea9ec80029315116fa0
         array (
             'interfaces\\' => 11,
         ),
+        'P' => 
+        array (
+            'Players\\' => 8,
+        ),
         'C' => 
         array (
             'Classes\\' => 8,
@@ -21,6 +25,10 @@ class ComposerStaticInita337465ec0a0cea9ec80029315116fa0
         'interfaces\\' => 
         array (
             0 => __DIR__ . '/../..' . '/interfaces',
+        ),
+        'Players\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/Players',
         ),
         'Classes\\' => 
         array (

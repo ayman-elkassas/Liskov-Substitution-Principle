@@ -11,7 +11,8 @@
     "autoload": {
         "psr-4": {
             "Classes\\": "Classes",
-            "interfaces\\": "interfaces"
+            "interfaces\\": "interfaces",
+            "Players\\": "Players"
         }
     }
 }
